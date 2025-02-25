@@ -234,7 +234,8 @@
 * [KDramaCool](https://kdramacool.site/) - TV / Movies
 * [AsianC](https://asianc.org.es/) - TV / Movies
 * [Dramacool.org](https://dramacool.org.tc/) - TV / Movies
-* [KissAsianTV](https://kissasiantv.com.im/) - TV / Movies
+* [KissAsian]((https://kissasian.org.ro/)) - TV / Movies
+* [DramaCool.bg](https://dramacool.bg/) - TV / Movies
 * [KissTVShow](https://kisstvshow.live/) - TV
 * [FastDrama](https://fastdrama.cam/) - TV / Movies
 * [KissKH.org](https://kisskh.org.es/) - TV
